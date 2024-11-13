@@ -58,6 +58,7 @@ Selected as a scholarship recipient for KubeCon + CloudNativeCon, Open Source Su
 
 # 📊 GitHub Stats:
 [![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan-patel-dev&show_icons=true&theme=transparent&hide_border=true&card_width=400)](https://github.com/kishan-patel-dev) [![GitHub Streak](https://streak-stats.demolab.com?user=kishan-patel-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/kishan-patel-dev)
+[![Kishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishan-patel-dev&bg_color=transparent&color=58a6ff&line=58a6ff&point=3b82f6&hide_border=true)](https://github.com/kishan-patel-dev)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kishan-Patel-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
