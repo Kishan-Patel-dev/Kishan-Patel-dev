@@ -57,19 +57,45 @@ Selected as a scholarship recipient for KubeCon + CloudNativeCon, Open Source Su
  -->
 
 # 📊 GitHub Stats:
-[![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan-patel-dev&show_icons=true&theme=transparent&hide_border=true&card_width=400)](https://github.com/kishan-patel-dev) [![GitHub Streak](https://streak-stats.demolab.com?user=kishan-patel-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/kishan-patel-dev)
-[![Kishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishan-patel-dev&bg_color=transparent&color=58a6ff&line=58a6ff&point=3b82f6&hide_border=true)](https://github.com/kishan-patel-dev)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kishan-Patel-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+| 📊 Stats                                                                                                               | 🔥 Streak                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=kishan-patel-dev&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> | <img src="https://github-readme-streak-stats.herokuapp.com?user=kishan-patel-dev&theme=nightowl&hide_border=true" width="100%"> |
+
+| 🗺️ GitHub Activity Graph                                                                                                | 🔝 Top Contributed Repo                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------| 
+| [![Kishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishan-patel-dev&bg_color=transparent&color=58a6ff&line=58a6ff&point=3b82f6&hide_border=true)](https://github.com/kishan-patel-dev) | ![](https://github-contributor-stats.vercel.app/api?username=Kishan-Patel-dev&limit=5&combine_all_yearly_contributions=true&theme=nightowl) |
+
+<!-- 
+[![An image of @kishanpateldev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishanpateldev)](https://holopin.io/@kishanpateldev)
+
+<!-- 
+<h2 align="center">📈 Other stats</h2>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-OwO&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true"> -->
+<!-- 
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=kishan-patel-dev" target="_blank">
+  <img src="https://stats.quine.sh/kishan-patel-dev/github?theme=dark" width="48%"> 
+</a>
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=kishan-patel-dev" target="_blank">
+  <img src="https://stats.quine.sh/Kishan-Patel-dev/dependencies?theme=dark" width="48%"> 
+</a>
+
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=kishan-patel-dev" target="_blank">
+  <img src="https://stats.quine.sh/kishan-patel-dev/topics-over-time?theme=dark" width="48%">
+</a>
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=kishan-patel-dev" target="_blank">
+  <img src="https://stats.quine.sh/kishan-patel-dev/languages-over-time?theme=dark" width="48%">
+</a>
+-->
+
+### 
 
 <!-- Support Me -->
-
+<!--
 <h3 align="left">💰 Support</h3>
 <p>
       <a href="https://www.buymeacoffee.com/kishanpatel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kishanpatel" /></a>
-
-
-<!-- Top Blog Posts 
-https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
+
+<!-- Top Blog Posts -->
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
