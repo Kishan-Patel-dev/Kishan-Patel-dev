@@ -6,12 +6,6 @@
 <a href="https://x.com/KishanPatel_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishanpatel_dev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kishan-patel-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kishan-patel-dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@KishanPatel_Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KishanPatel_dev" height="30" width="40" /></a>
-<div>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kishan-patel-dev&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
-</div>
-
 <!-- About Me -->
 </p>
 <!- About Me -->
