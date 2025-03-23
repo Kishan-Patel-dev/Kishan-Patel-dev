@@ -18,7 +18,7 @@
 <h2>About Me <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif" width ="25"></h2>
       <p>🎓 Pursuing a Bachelor's degree in Computer Science & Engineering, with a strong passion for Open Source             contributions.</p>
       <p>🚀<strong> Actively contributing to Open Source projects</strong> and building impactful web applications to enhance my             skills.</p>
-      <p>👨‍💻 Enthusiast of <strong><mark>Web3 and Blockchain technologies</mark></strong>, always eager to learn and explore new innovations.</p>
+      <p>👨‍💻 Enthusiast of <strong><mark>AI and Blockchain technologies</mark></strong>, always eager to learn and explore new innovations.</p>
 </div>
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <div style="border-radius: 50%; width: 100px; height: 100px; background-image: url('https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif'); background-size: cover; margin-right: 20px;"></div>
